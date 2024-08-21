@@ -1,0 +1,11 @@
+{
+    "token": "MTIyOTg3MTgxNjU3OTc0MzkxNw.GKEthc.EcdA2_lKuWeRutlbtLZbtkHW2XWaFv82nB4les",
+    "discordClientId": "1229871816579743917",
+    "mongoUrl": "mongodb+srv://lfilipovic2016:igwq4JT60gpgmbeQ@raidleader.nlkol.mongodb.net/RaidLeader?retryWrites=true&w=majority&appName=RaidLeader",
+    
+    "devGuildId": "705899286197698711",
+    "devToken": "",
+    "devDiscordClientId": "",
+    "developerUserIds": ["370676288072974336"],
+    "devMongoUrl": ""
+}
